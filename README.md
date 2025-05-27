@@ -1,1 +1,1 @@
-# similarity-based-text-retrieval
+# Similarity-Based Text Retrieval
